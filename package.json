@@ -1,0 +1,11 @@
+{
+  "name": "backend_learing",
+  "version": "1.0.0",
+  "description": "it for learing ok . bye",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
